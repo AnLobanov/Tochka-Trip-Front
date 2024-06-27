@@ -1,0 +1,25 @@
+.form,
+.trip {
+  position: absolute;
+  top: calc(50% - 17px);
+  left: 0;
+  width: 566px;
+  height: 124px;
+}
+.trip {
+  top: calc(50% - 210px);
+  display: inline-block;
+  width: 429px;
+  height: 139px;
+}
+.restoreForm {
+  position: absolute;
+  top: calc(50% - 282px);
+  left: 105px;
+  width: 566px;
+  height: 420px;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

@@ -1,0 +1,33 @@
+.div,
+.field {
+  position: absolute;
+}
+.field {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.div {
+  height: 60.56%;
+  width: 79.03%;
+  top: 19.72%;
+  left: 10.48%;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.restoreButton {
+  width: 496px;
+  max-width: 100%;
+  height: 71px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

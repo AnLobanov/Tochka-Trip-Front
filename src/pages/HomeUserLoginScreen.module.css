@@ -1,0 +1,15 @@
+.globeIcon {
+  position: absolute;
+  right: -319px;
+  bottom: -434px;
+  width: 1130px;
+  height: 1130px;
+  overflow: hidden;
+}
+.homeUserLoginScreen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+}

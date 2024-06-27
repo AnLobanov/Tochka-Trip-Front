@@ -1,0 +1,40 @@
+.trip {
+  position: absolute;
+  top: calc(50% - 303px);
+  left: 0;
+  display: inline-block;
+  width: 429px;
+  height: 139px;
+}
+.info,
+.registerForm {
+  position: absolute;
+  top: calc(50% - 110px);
+  left: 0;
+  width: 1183px;
+  height: 413px;
+}
+.info {
+  top: calc(50% - 282px);
+  left: 105px;
+  height: 606px;
+}
+.globeIcon {
+  position: absolute;
+  right: -661px;
+  bottom: -432px;
+  width: 1130px;
+  height: 1130px;
+  overflow: hidden;
+}
+.registerScreen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

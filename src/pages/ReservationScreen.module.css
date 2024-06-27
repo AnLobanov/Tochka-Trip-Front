@@ -1,0 +1,141 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 925px);
+  border-radius: 22px;
+  background-color: var(--color-gainsboro);
+  width: 1850px;
+  height: 874px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 133px);
+  display: flex;
+  align-items: center;
+  width: 75px;
+  height: 28px;
+}
+.div1 {
+  left: calc(50% + 58px);
+}
+.timeChild {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 46px);
+  max-height: 100%;
+  width: 98px;
+}
+.svo,
+.svx,
+.time {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 129px);
+  width: 266px;
+  height: 28px;
+}
+.svo,
+.svx {
+  left: calc(50% - 110px);
+  display: flex;
+  align-items: center;
+  width: 55px;
+}
+.svo {
+  left: calc(50% + 55px);
+}
+.destinationChild {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 55px);
+  max-height: 100%;
+  width: 98px;
+}
+.destination,
+.div2 {
+  position: absolute;
+  height: 28px;
+}
+.destination {
+  top: 0;
+  left: calc(50% - 372px);
+  width: 220px;
+}
+.div2 {
+  left: calc(50% + 466px);
+  width: 110px;
+}
+.div2,
+.div3,
+.uralAirlines {
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.div3 {
+  position: absolute;
+  left: calc(50% + 333px);
+  width: 110px;
+  height: 28px;
+}
+.uralAirlines {
+  left: calc(50% + 160px);
+  width: 150px;
+}
+.div4,
+.info,
+.uralAirlines {
+  position: absolute;
+  height: 28px;
+}
+.div4 {
+  top: 0;
+  left: calc(50% - 576px);
+  display: flex;
+  align-items: center;
+  width: 180px;
+}
+.info {
+  top: 89px;
+  left: calc(50% - 896px);
+  width: 1152px;
+}
+.div5,
+.places,
+.reservation {
+  position: absolute;
+  left: calc(50% - 898px);
+}
+.div5 {
+  top: 27px;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 206px;
+  height: 28px;
+}
+.places,
+.reservation {
+  top: 151px;
+  width: 502px;
+  height: 605px;
+}
+.reservation {
+  top: 169px;
+  left: calc(50% - 925px);
+  width: 1850px;
+  height: 874px;
+}
+.reservationScreen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

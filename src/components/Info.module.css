@@ -1,0 +1,142 @@
+.antonioBanderras,
+.div {
+  position: absolute;
+  height: 100%;
+  width: 42.45%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.antonioBanderras {
+  width: 51.89%;
+  left: 48.11%;
+}
+.reservationsInfo {
+  position: absolute;
+  height: 28.87%;
+  width: 36.81%;
+  top: 71.13%;
+  right: 63.19%;
+  bottom: 0;
+  left: 0;
+}
+.div1,
+.div2,
+.div3,
+.svo,
+.svx,
+.uralAirlines {
+  position: absolute;
+  height: 100%;
+  width: 15.63%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.div2,
+.div3,
+.svo,
+.svx,
+.uralAirlines {
+  width: 13.02%;
+  left: 63.89%;
+}
+.div2,
+.div3,
+.svo,
+.svx {
+  width: 9.55%;
+  left: 78.91%;
+}
+.div3,
+.svo,
+.svx {
+  left: 90.45%;
+}
+.svo,
+.svx {
+  width: 25%;
+  left: 0;
+}
+.svo {
+  left: 75%;
+}
+.destinationChild {
+  position: absolute;
+  height: 52.5%;
+  width: 44.55%;
+  top: 50%;
+  right: 30.45%;
+  bottom: -2.5%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.destination,
+.div4,
+.div5 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.destination {
+  width: 19.1%;
+  right: 63.19%;
+  bottom: 0;
+  left: 17.71%;
+}
+.div4,
+.div5 {
+  width: 28.2%;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.div5 {
+  left: 71.8%;
+}
+.timeChild {
+  position: absolute;
+  height: 52.5%;
+  width: 36.84%;
+  top: 50%;
+  right: 30.45%;
+  bottom: -2.5%;
+  left: 32.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.flightInfo,
+.info,
+.time {
+  position: absolute;
+  height: 100%;
+  width: 23.09%;
+  top: 0;
+  right: 38.11%;
+  bottom: 0;
+  left: 38.8%;
+}
+.flightInfo,
+.info {
+  height: 28.87%;
+  width: 100%;
+  right: 0;
+  bottom: 71.13%;
+  left: 0;
+}
+.info {
+  height: 88.18%;
+  width: 63.54%;
+  top: 5.45%;
+  right: 36.46%;
+  bottom: 6.36%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

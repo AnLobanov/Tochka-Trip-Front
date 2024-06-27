@@ -1,0 +1,14 @@
+.flights {
+  position: absolute;
+  top: 192px;
+  left: calc(50% - 925px);
+  width: 1853px;
+  height: 971px;
+}
+.flightsScreen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1192px;
+  overflow: hidden;
+}

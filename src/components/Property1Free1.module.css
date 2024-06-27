@@ -1,0 +1,31 @@
+.backgroundIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div {
+  position: absolute;
+  height: 42.5%;
+  width: 68.75%;
+  top: 27.5%;
+  left: 15.63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1free {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

@@ -1,0 +1,53 @@
+.div,
+.form {
+  position: absolute;
+  left: 0;
+}
+.form {
+  top: calc(50% - 146px);
+  width: 567px;
+  height: 288px;
+}
+.div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.forgotButton {
+  top: calc(50% + 31.5px);
+  width: 288px;
+  height: 41px;
+  cursor: pointer;
+}
+.buttons,
+.forgotButton,
+.trip {
+  position: absolute;
+  left: 0;
+}
+.buttons {
+  top: calc(50% + 194px);
+  width: 566px;
+  height: 145px;
+  color: var(--color-dimgray);
+}
+.trip {
+  top: calc(50% - 339px);
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 429px;
+  height: 139px;
+}
+.loginForm {
+  position: absolute;
+  top: calc(50% - 282px);
+  left: 105px;
+  width: 567px;
+  height: 678px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

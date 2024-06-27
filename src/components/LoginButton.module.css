@@ -1,0 +1,29 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.div {
+  position: absolute;
+  height: 60.56%;
+  width: 44.2%;
+  top: 19.72%;
+  left: 28.07%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loginButton {
+  width: 264px;
+  height: 71px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

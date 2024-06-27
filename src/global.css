@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "TT Norms Tochka Extended";
+  src: url("/public/TT Norms Tochka Extended Regular.otf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-tt-norms-tochka-extended: "TT Norms Tochka Extended";
+
+  /* font sizes */
+  --font-size-109xl: 128px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dimgray: #666363;
+  --color-gainsboro: #d9d9d9;
+  --color-lightpink: #ffadad;
+  --color-lightgreen: #7ad76b;
+  --color-khaki: #d4d76b;
+
+  /* Border radiuses */
+  --br-2xl: 21px;
+}

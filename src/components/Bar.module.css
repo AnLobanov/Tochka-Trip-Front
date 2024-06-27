@@ -1,0 +1,26 @@
+.trip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 429px;
+  height: 139px;
+}
+.bar,
+.buttons {
+  position: absolute;
+  top: 53px;
+  left: 297px;
+  width: 572px;
+  height: 71px;
+}
+.bar {
+  top: 0;
+  left: 38px;
+  width: 1847px;
+  height: 139px;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

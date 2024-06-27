@@ -1,0 +1,39 @@
+.field {
+  position: absolute;
+  height: 61.29%;
+  width: 100%;
+  top: 38.71%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro);
+}
+.antnlobanovgmailcom,
+.div {
+  position: absolute;
+  height: 38.71%;
+  width: 59.72%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  background: transparent;
+  border: none;
+}
+.antnlobanovgmailcom {
+  top: 62px;
+  left: 17px;
+  width: 531px;
+  height: 41px;
+}
+.emailField {
+  position: absolute;
+  top: calc(50% - 144px);
+  left: 0;
+  width: 566px;
+  height: 124px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

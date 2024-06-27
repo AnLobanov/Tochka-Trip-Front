@@ -1,0 +1,7 @@
+.quitButtonIcon {
+  width: 79px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 79px;
+  cursor: pointer;
+}

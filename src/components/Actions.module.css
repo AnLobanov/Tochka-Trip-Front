@@ -1,0 +1,103 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-khaki);
+}
+.div {
+  position: absolute;
+  height: 42.86%;
+  width: 71.07%;
+  top: 26.19%;
+  left: 14.29%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background1,
+.status {
+  position: absolute;
+  height: 38.18%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 61.82%;
+  left: 0;
+}
+.background1 {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-lightpink);
+}
+.div1 {
+  position: absolute;
+  height: 42.86%;
+  width: 41.79%;
+  top: 28.57%;
+  left: 28.93%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background2,
+.payButton {
+  position: absolute;
+  height: 97.67%;
+  width: 44.8%;
+  top: 0;
+  right: 0;
+  bottom: 2.33%;
+  left: 55.2%;
+}
+.background2 {
+  height: 100%;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.div2 {
+  position: absolute;
+  height: 42.86%;
+  width: 71.06%;
+  top: 26.19%;
+  left: 14.29%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.actions,
+.buttons,
+.status1 {
+  position: absolute;
+  height: 97.67%;
+  width: 48.48%;
+  top: 2.33%;
+  right: 51.52%;
+  bottom: 0;
+  left: 0;
+}
+.actions,
+.buttons {
+  height: 39.09%;
+  width: 100%;
+  top: 60.91%;
+  right: 0;
+}
+.actions {
+  height: 100%;
+  width: 34.47%;
+  top: 0;
+  left: 65.53%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

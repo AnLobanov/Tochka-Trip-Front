@@ -1,0 +1,49 @@
+.background,
+.div {
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.div {
+  position: absolute;
+  height: 39.34%;
+  display: inline-block;
+}
+.background {
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro);
+}
+.background,
+.div1,
+.field {
+  position: absolute;
+}
+.div1 {
+  top: 16px;
+  left: 16px;
+  display: inline-block;
+  width: 533px;
+  height: 43px;
+  background: transparent;
+  border: none;
+}
+.field {
+  height: 62.3%;
+  width: 100%;
+  top: 37.7%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.nameField {
+  width: 566px;
+  max-width: 100%;
+  height: 122px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

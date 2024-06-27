@@ -1,0 +1,7 @@
+.row2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 251px);
+  width: 187px;
+  height: 605px;
+}

@@ -1,0 +1,42 @@
+.flights,
+.trip {
+  position: absolute;
+}
+.flights {
+  top: 192px;
+  left: calc(50% - 925px);
+  width: 1850px;
+  height: 860px;
+}
+.trip {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 429px;
+  height: 139px;
+}
+.bar,
+.buttons {
+  position: absolute;
+  top: 53px;
+  left: 297px;
+  width: 572px;
+  height: 71px;
+}
+.bar {
+  top: 0;
+  left: 38px;
+  width: 1847px;
+  height: 139px;
+}
+.reservationsScreen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

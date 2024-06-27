@@ -1,0 +1,29 @@
+.reserveButtonreserveChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.div {
+  position: absolute;
+  height: 43.66%;
+  width: 82.72%;
+  top: 26.76%;
+  left: 8.64%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reserveButtonreserve {
+  width: 324px;
+  height: 71px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

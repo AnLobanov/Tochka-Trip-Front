@@ -1,0 +1,29 @@
+.registerButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.div {
+  position: absolute;
+  height: 43.66%;
+  width: 85.27%;
+  top: 25.35%;
+  left: 7.39%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.registerButton {
+  width: 264px;
+  height: 71px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-tt-norms-tochka-extended);
+}

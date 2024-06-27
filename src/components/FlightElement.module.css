@@ -1,0 +1,169 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro);
+}
+.div,
+.div1,
+.div2,
+.svo,
+.svx,
+.uralAirlines {
+  position: absolute;
+  height: 100%;
+  width: 15.63%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.div1,
+.div2,
+.svo,
+.svx,
+.uralAirlines {
+  width: 13.02%;
+  left: 63.89%;
+}
+.div1,
+.div2,
+.svo,
+.svx {
+  width: 9.55%;
+  left: 78.91%;
+}
+.div2,
+.svo,
+.svx {
+  left: 90.45%;
+}
+.svo,
+.svx {
+  width: 25%;
+  left: 0;
+}
+.svo {
+  left: 75%;
+}
+.destinationChild {
+  position: absolute;
+  height: 52.5%;
+  width: 44.55%;
+  top: 50%;
+  right: 30.45%;
+  bottom: -2.5%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.destination,
+.div3,
+.div4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.destination {
+  width: 19.1%;
+  right: 63.19%;
+  bottom: 0;
+  left: 17.71%;
+}
+.div3,
+.div4 {
+  width: 28.2%;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.div4 {
+  left: 71.8%;
+}
+.timeChild {
+  position: absolute;
+  height: 52.5%;
+  width: 36.84%;
+  top: 50%;
+  right: 30.45%;
+  bottom: -2.5%;
+  left: 32.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.time {
+  position: absolute;
+  height: 100%;
+  width: 23.09%;
+  top: 0;
+  right: 38.11%;
+  bottom: 0;
+  left: 38.8%;
+}
+.background1,
+.info {
+  position: absolute;
+  height: 66.67%;
+  width: 63.54%;
+  top: 16.67%;
+  right: 36.46%;
+  bottom: 16.67%;
+  left: 0;
+}
+.background1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.div5 {
+  position: absolute;
+  height: 42.86%;
+  width: 32.63%;
+  top: 28.57%;
+  left: 33.6%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reserveButton {
+  position: absolute;
+  height: 100%;
+  width: 33.98%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 66.02%;
+  text-align: center;
+  color: var(--color-white);
+}
+.flight {
+  position: absolute;
+  height: 50.6%;
+  width: 98%;
+  top: 24.1%;
+  right: 0.65%;
+  bottom: 25.3%;
+  left: 1.35%;
+}
+.flightElement {
+  position: absolute;
+  top: 888px;
+  left: calc(50% - 926.5px);
+  width: 1850px;
+  height: 83px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-tt-norms-tochka-extended);
+}
