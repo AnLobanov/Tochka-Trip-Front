@@ -85,7 +85,6 @@ const FlightsScreen: FunctionComponent = () => {
   }, [onLoadingInfo]);
 
   const onFlightElementBackgroundClick = useCallback((flightData: Flight) => {
-    console.log(flightData);
     navigate("/reservation-screen", { state: { flight: flightData } });
   }, [navigate]);
 
